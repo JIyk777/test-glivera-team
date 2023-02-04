@@ -1,0 +1,30 @@
+.box {
+  display: flex;
+  align-items: center;
+  margin-top: 597px;
+}
+
+.textBox {
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: calc(21 / 14);
+
+  letter-spacing: 0.01em;
+
+  color: #000000;
+}
+
+.profession {
+  font-size: 12px;
+  line-height: calc(18 / 12);
+
+  letter-spacing: 0.01em;
+
+  color: #757575;
+}

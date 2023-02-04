@@ -1,0 +1,44 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.item {
+  padding: 11px 8px 11px 11px;
+  color: #9197b3;
+  &:focus,
+  &:hover {
+    background: #5932ea;
+    border-radius: 8px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  &:focus .link *,
+  &:hover .link * {
+    stroke: #ffffff;
+  }
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &Box {
+    display: flex;
+    align-items: center;
+  }
+  &Text {
+    margin-left: 14px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: calc(21 / 14);
+
+    letter-spacing: -0.01em;
+  }
+
+  &Chevron {
+    justify: flex-end;
+  }
+}
