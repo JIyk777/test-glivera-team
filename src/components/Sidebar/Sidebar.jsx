@@ -1,6 +1,6 @@
 import React from 'react';
 import scss from './MainSidebar.module.scss';
-import Logo from './Logo/Logo';
+import Logo from './MainSidebarLogo/Logo';
 
 const MainSidebar = () => {
   return (
