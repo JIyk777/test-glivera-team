@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.ac618714.css",
-    "main.js": "/react-homework-template/static/js/main.6ac1f269.js",
+    "main.css": "/react-homework-template/static/css/main.d814ca07.css",
+    "main.js": "/react-homework-template/static/js/main.b08095d6.js",
     "static/media/promote-icon.svg": "/react-homework-template/static/media/promote-icon.5230029f4e637c534c143c4d95cf421f.svg",
     "static/media/income-icon.svg": "/react-homework-template/static/media/income-icon.25d824b57e5c5a753432296807e7285d.svg",
     "static/media/product-icon.svg": "/react-homework-template/static/media/product-icon.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
@@ -10,12 +10,13 @@
     "static/media/logo.svg": "/react-homework-template/static/media/logo.fe984a6cdb2ef8c5a0b69a7ef20deea3.svg",
     "index.html": "/react-homework-template/index.html",
     "static/media/dashboadrd-icon.svg": "/react-homework-template/static/media/dashboadrd-icon.153a0eb179be0548729792a4f21fc52e.svg",
+    "static/media/search.svg": "/react-homework-template/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
     "static/media/chevron-right.svg": "/react-homework-template/static/media/chevron-right.618c411d724ff239093f3539c12387f1.svg",
-    "main.ac618714.css.map": "/react-homework-template/static/css/main.ac618714.css.map",
-    "main.6ac1f269.js.map": "/react-homework-template/static/js/main.6ac1f269.js.map"
+    "main.d814ca07.css.map": "/react-homework-template/static/css/main.d814ca07.css.map",
+    "main.b08095d6.js.map": "/react-homework-template/static/js/main.b08095d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac618714.css",
-    "static/js/main.6ac1f269.js"
+    "static/css/main.d814ca07.css",
+    "static/js/main.b08095d6.js"
   ]
 }
