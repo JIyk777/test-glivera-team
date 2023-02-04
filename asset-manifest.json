@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.14e5269f.css",
-    "main.js": "/react-homework-template/static/js/main.28fcf66b.js",
-    "static/media/promote-icon.svg": "/react-homework-template/static/media/promote-icon.5230029f4e637c534c143c4d95cf421f.svg",
-    "static/media/income-icon.svg": "/react-homework-template/static/media/income-icon.25d824b57e5c5a753432296807e7285d.svg",
-    "static/media/product-icon.svg": "/react-homework-template/static/media/product-icon.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
-    "static/media/help-icon.svg": "/react-homework-template/static/media/help-icon.5d23912a887f9edc9d9f8d957ec960e6.svg",
-    "static/media/customers-icon.svg": "/react-homework-template/static/media/customers-icon.5385b430197653ca39cc1ec7ef64f339.svg",
-    "static/media/logo.svg": "/react-homework-template/static/media/logo.fe984a6cdb2ef8c5a0b69a7ef20deea3.svg",
-    "index.html": "/react-homework-template/index.html",
-    "static/media/dashboadrd-icon.svg": "/react-homework-template/static/media/dashboadrd-icon.153a0eb179be0548729792a4f21fc52e.svg",
-    "static/media/search.svg": "/react-homework-template/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
-    "static/media/chevron-right.svg": "/react-homework-template/static/media/chevron-right.618c411d724ff239093f3539c12387f1.svg",
-    "static/media/btn-icon-n.svg": "/react-homework-template/static/media/btn-icon-n.d38005f2b721689b4def76898c3237b7.svg",
-    "static/media/btn-icon.svg": "/react-homework-template/static/media/btn-icon.7cf97fe7c4a194e671023102ca1d94a0.svg",
-    "main.14e5269f.css.map": "/react-homework-template/static/css/main.14e5269f.css.map",
-    "main.28fcf66b.js.map": "/react-homework-template/static/js/main.28fcf66b.js.map"
+    "main.css": "/test-glivera-team/static/css/main.14e5269f.css",
+    "main.js": "/test-glivera-team/static/js/main.2f008500.js",
+    "static/media/promote-icon.svg": "/test-glivera-team/static/media/promote-icon.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/income-icon.svg": "/test-glivera-team/static/media/income-icon.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/product-icon.svg": "/test-glivera-team/static/media/product-icon.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/help-icon.svg": "/test-glivera-team/static/media/help-icon.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/customers-icon.svg": "/test-glivera-team/static/media/customers-icon.5385b430197653ca39cc1ec7ef64f339.svg",
+    "static/media/logo.svg": "/test-glivera-team/static/media/logo.fe984a6cdb2ef8c5a0b69a7ef20deea3.svg",
+    "index.html": "/test-glivera-team/index.html",
+    "static/media/dashboadrd-icon.svg": "/test-glivera-team/static/media/dashboadrd-icon.153a0eb179be0548729792a4f21fc52e.svg",
+    "static/media/search.svg": "/test-glivera-team/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
+    "static/media/chevron-right.svg": "/test-glivera-team/static/media/chevron-right.618c411d724ff239093f3539c12387f1.svg",
+    "static/media/btn-icon-n.svg": "/test-glivera-team/static/media/btn-icon-n.d38005f2b721689b4def76898c3237b7.svg",
+    "static/media/btn-icon.svg": "/test-glivera-team/static/media/btn-icon.7cf97fe7c4a194e671023102ca1d94a0.svg",
+    "main.14e5269f.css.map": "/test-glivera-team/static/css/main.14e5269f.css.map",
+    "main.2f008500.js.map": "/test-glivera-team/static/js/main.2f008500.js.map"
   },
   "entrypoints": [
     "static/css/main.14e5269f.css",
-    "static/js/main.28fcf66b.js"
+    "static/js/main.2f008500.js"
   ]
 }
