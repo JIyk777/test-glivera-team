@@ -10,7 +10,6 @@ export const App = () => {
   return (
     <div className={scss.container}>
       <Sidebar />
-
       <Routes>
         <Route path="/" element={<RightSidebar />}>
           <Route path="/dashboard" element={<NotFound />}></Route>

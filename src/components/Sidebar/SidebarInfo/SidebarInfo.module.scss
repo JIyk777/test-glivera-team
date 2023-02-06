@@ -1,7 +1,15 @@
+@import '/src/assets/styles/mixins';
+
 .box {
   display: flex;
   align-items: center;
-  margin-top: 586px;
+
+  @include mq(mob-only) {
+    margin-top: 20px;
+  }
+  @include mq(desk) {
+    margin-top: 586px;
+  }
 }
 
 .textBox {

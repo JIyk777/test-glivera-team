@@ -1,7 +1,14 @@
+@import '/src/assets/styles/mixins';
+
 .paginationBox {
   display: flex;
   justify-content: space-between;
   margin-top: 30px;
+
+  @include mq(mob-only) {
+    display: none;
+  }
+
   &Text {
     font-weight: 500;
     font-size: 14px;

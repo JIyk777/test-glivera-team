@@ -1,7 +1,15 @@
+@import '/src/assets/styles/mixins';
+
 .box {
   display: flex;
   align-items: center;
-  margin-bottom: 52px;
+
+  @include mq(mob-only) {
+    margin-bottom: 32px;
+  }
+  @include mq(desk) {
+    margin-bottom: 52px;
+  }
 }
 
 .text {
@@ -28,4 +36,24 @@
   letter-spacing: -0.01em;
 
   color: #838383;
+}
+
+.burgerBtn {
+  display: none;
+  @include mq(mob-only) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    margin-left: auto;
+    border: 0;
+    background-color: #ffffff;
+  }
+  &Icon {
+    width: 20px;
+    height: 20px;
+  }
 }

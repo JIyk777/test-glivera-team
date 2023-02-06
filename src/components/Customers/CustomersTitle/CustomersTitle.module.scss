@@ -1,8 +1,23 @@
+@import '/src/assets/styles/mixins';
+
 .titleSearchBox {
   display: flex;
-
   align-items: center;
   margin-bottom: 36px;
+  @include mq(mob-only) {
+    flex-direction: column;
+  }
+}
+
+.titleBox {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-right: 506px;
+  @include mq(mob-only) {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
 }
 
 .title {
@@ -13,13 +28,6 @@
   letter-spacing: -0.01em;
 
   color: #000000;
-}
-
-.titleBox {
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
-  margin-right: 506px;
 }
 
 .titleLink {

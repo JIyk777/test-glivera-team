@@ -3,7 +3,7 @@ import allCustomers from 'files/allCustomers';
 
 const CustomersTable = () => {
   return (
-    <table>
+    <table className={scss.tableActive}>
       <thead>
         <tr className={scss.head}>
           <th className={`${scss.headName}  ${scss.thStyle}`}>Customer Name</th>

@@ -2,4 +2,12 @@
 
 .container {
   display: flex;
+  @include mq(mob-only) {
+    width: 320px;
+    flex-direction: column;
+  }
+  @include mq(desk) {
+    width: 1440px;
+    margin-bottom: 52px;
+  }
 }

@@ -1,3 +1,11 @@
+@import '/src/assets/styles/mixins';
+
+.tableActive {
+  @include mq(mob-only) {
+    display: none;
+  }
+}
+
 .thStyle {
   padding: 0;
   padding-bottom: 14px;
