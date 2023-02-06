@@ -1,10 +1,14 @@
 .box {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 18px;
 }
 
-.item {
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   padding: 11px 8px 11px 11px;
   color: #9197b3;
   &:focus,
@@ -14,17 +18,10 @@
     color: #ffffff;
     cursor: pointer;
   }
-  &:focus .link *,
-  &:hover .link * {
+  &:focus *,
+  &:hover * {
     stroke: #ffffff;
   }
-}
-
-.link {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-
   &Box {
     display: flex;
     align-items: center;

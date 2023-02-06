@@ -1,0 +1,48 @@
+.paginationBox {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  &Text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: calc(21 / 14);
+
+    letter-spacing: -0.01em;
+
+    color: #b5b7c0;
+  }
+}
+
+.pagination {
+  display: flex;
+  gap: 12px;
+}
+
+.paginationBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 24px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 100%;
+
+  letter-spacing: -0.01em;
+
+  color: #404b52;
+
+  background-color: #f5f5f5;
+  border: 1px solid #eeeeee;
+  border-radius: 4px;
+  cursor: pointer;
+  &:hover,
+  &:focus {
+    background-color: #5932ea;
+    color: #ffffff;
+    stroke: #ffffff;
+  }
+}
